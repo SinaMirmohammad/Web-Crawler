@@ -1,0 +1,16 @@
+Here is the process of developing a simple crawl script.
+Script is the 8 most complete script and was the last part that was developed.
+By reading and reading these scripts, you can learn how to develop them and implement better algorithms yourself.
+
+Please provide the input link to the program as shown below.
+
+https://www.google.com
+
+https://www.bing.com
+
+...
+
+
+***> stop crwal script and exit  with CTRL+Z or CTRL+X
+
+Thanks, Good Luck
